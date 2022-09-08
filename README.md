@@ -12,7 +12,8 @@
 **Packages:** numpy, matplotlib, seaborn, sklearn, xgboost, flask, json, pickle<br>
 **RFM Analysis Notebook:** https://www.kaggle.com/code/yaowenling/rfm-customer-segmentation/notebook<br>
 **Cluster-then-predict Article:** https://towardsdatascience.com/cluster-then-predict-for-classification-tasks-142fdfdc87d6<br>
-**Flask Productionization:** https://github.com/PlayingNumbers/ds_salary_proj/tree/master/FlaskAPI<br>
+**Flask Productionization Github:** https://github.com/PlayingNumbers/ds_salary_proj/tree/master/FlaskAPI<br>
+**Flask Productionization Article:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku
 
 ## Data
 Masked data is obtained from a manufacturing company for my capstone project, so I won't share the dataset.
@@ -74,7 +75,7 @@ The XGBoost model outperformed the other approaches on the training and test set
 ![model accuracy](https://user-images.githubusercontent.com/71859510/189018735-96704fb7-638d-4f64-8f84-86b6e9894f78.PNG)
 
 ### Productionization
-In this step, I built a flask API endpoint that was hosted on a local webserver by following along with the youtube tutorial in the reference section above. The API endpoint takes in a request with a list of values from a retailer transaction and returns an estimated credit score.
+In this step, I built a flask API endpoint that was hosted on a local webserver by following along with the tutorial in the reference section above. The API endpoint takes in a request with a list of values from a retailer transaction and returns an estimated credit score.
 
 
 
