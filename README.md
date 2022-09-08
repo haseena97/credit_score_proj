@@ -1,4 +1,4 @@
-# Credit Score Classifier: Project Overview
+# Retailer Credit Score Classifier: Project Overview
 - Created a tool that estimates credit score of retailers to help manufacturers assess creditworthiness of retailers based on their purchasing behaviour.
 - Assessment of creditworthiness is based on RFM values of retailers.
 - There are 2 part in this project:
@@ -6,6 +6,7 @@
 >
 > **Step 2. Prediction:** Predict credit score of retailers by using output from Step 1. 
 - Built a client facing API using flask
+- Created a Tableau dashboard on [retailer purchasing habits](https://public.tableau.com/views/rfm_16624639585820/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Codes and Resources Used
 **Python Version:** Python 3.9<br>
