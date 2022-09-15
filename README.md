@@ -79,7 +79,7 @@ The XGBoost model outperformed the other approaches on the training and test set
 ### Productionization
 In this step, I built a flask API endpoint that was hosted on a local webserver by following along with the tutorial in the reference section above. The API endpoint takes in a request with a list of values from a retailer transaction and returns an estimated credit score.
 
-### Suggestions on Invoice Terms for each Credit Score Cluster
+## Suggestions on Invoice Terms for each Credit Score Cluster
 ![image](https://user-images.githubusercontent.com/71859510/190308211-641a75b3-3889-4823-9800-2feb3af2194c.png)
 
 
