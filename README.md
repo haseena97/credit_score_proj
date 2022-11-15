@@ -73,7 +73,7 @@ I tried five different models and evaluated them using Accuracy Score:
 - XGBoost
 
 ### Model Performance
-The XGBoost model outperformed the other approaches on the training and test sets.
+SVM model outperformed the other approaches on the training and test sets.
 ![model accuracy](https://user-images.githubusercontent.com/71859510/189018735-96704fb7-638d-4f64-8f84-86b6e9894f78.PNG)
 
 ### Productionization
